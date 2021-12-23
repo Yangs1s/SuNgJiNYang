@@ -1,3 +1,2 @@
 # SuNgJiNYang
-내꺼
-08
+AI 야호~
